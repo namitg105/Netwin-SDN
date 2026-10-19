@@ -1,0 +1,6 @@
+# Always LF: these files run on Linux. A Windows checkout with CRLF breaks
+# shell scripts ("bad interpreter: /bin/bash^M").
+* text=auto eol=lf
+*.sh text eol=lf
+*.py text eol=lf
+*.md text eol=lf

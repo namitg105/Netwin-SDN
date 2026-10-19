@@ -1,0 +1,10 @@
+# Ryu's private Python 3.9 environment (created by scripts/setup_kali.sh)
+.ryu-env/
+
+__pycache__/
+*.pyc
+
+# Local captures and logs from demos
+*.pcap
+*.pcapng
+*.log
